@@ -1,0 +1,9 @@
+setup.py
+sec_edgar_corpus.egg-info/PKG-INFO
+sec_edgar_corpus.egg-info/SOURCES.txt
+sec_edgar_corpus.egg-info/dependency_links.txt
+sec_edgar_corpus.egg-info/top_level.txt
+services/__init__.py
+services/sec_data_service.py
+services/sec_index_services.py
+services/sec_xbrl_services.py
